@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/bushes.png</file>
+        <file>Images/fourmiliere.png</file>
+        <file>Images/left-black-arrow.png</file>
+        <file>Images/new.png</file>
+        <file>Images/pause.png</file>
+        <file>Images/right-black-arrow.png</file>
+        <file>Images/resume.png</file>
+    </qresource>
+</RCC>
