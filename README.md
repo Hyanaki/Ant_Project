@@ -13,3 +13,5 @@ When a ant found food, the ant emits pheromones on her way back. This pheromone 
 
 
 If the food is abondant, a queen is created. The queen will go somewhere else on the map to build her own ant farm.
+
+The results are introduced in a report written in French ('Guide d'utilisation: Simulateur de fourmiliere')
